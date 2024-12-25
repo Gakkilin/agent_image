@@ -1,1 +1,1 @@
-From busybox:1.28
+From docker.io/library/busybox:1.28
